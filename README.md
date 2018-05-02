@@ -1,1 +1,1 @@
-# Yelp reviews sentiment prediction done on SparkML. Check out md file for full code, and blog summary on https://medium.com/quick-code/yelp-reviews-sentiment-prediction-via-pyspark-mongodb-aws-emr-8bf0e21f5a92.
+# Yelp reviews sentiment prediction done on SparkML. Check out (yelp-svm-nlp.md) file for full code, and blog summary on https://medium.com/quick-code/yelp-reviews-sentiment-prediction-via-pyspark-mongodb-aws-emr-8bf0e21f5a92.
